@@ -2,7 +2,7 @@
 
 A single-file, professional mental math training suite designed for:
 
-- Quant Trading interviews (All Options, Optiver, IMC, Jane Street)
+- Quant Trading interviews
 - Arithmetic & number sense speed improvement
 - Probability intuition
 - Approximation skills (ln, exp, sqrt…)
@@ -71,4 +71,4 @@ Each difficulty scales:
 
 ---
 
-## ▶️ Running the program
+## Running the program
